@@ -1,6 +1,6 @@
 # messageSend
 
-![Image alt](https://github.com/Valentin261/messageSend/previewImage.jpg)
+![Image alt](https://github.com/Valentin261/messageSend/raw/master/previewImage.jpg)
 
 Основная функциональность данного проекта – реализация структуры обратной связи для встраивания в Ваш проект сайта. 
 Скрипт, реализующий процесс отправки сообщения «sendMessage.php». На вход «sendMessage.php» получает данные от пользователя при помощи POST запроса, реализованный путем сбора данных формой, описанной в файле «index.php».</br>
