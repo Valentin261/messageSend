@@ -10,8 +10,13 @@
 
 if ($_POST) {
 
+    //Простейший спам фильтр
+    if (!isset($_POST["login"])) {
+        if ($_POST["login"] != "") die();
+    }
+
     //Проверка существования данных от пользователя
-    if (!isset($_POST["email"]) || !isset($_POST["msg"])) {
+    if (!isset($_POST["email"]) AND !isset($_POST["msg"])) {
         die();
     }
 

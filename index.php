@@ -26,6 +26,7 @@
     <input class="formInputField" type="email" name="email" placeholder="Email"/>
     <textarea name="msg" class="formBlockText" placeholder="Ваше сообщение" rows="7"></textarea>
     <input type="submit" class="formButton" id="submit_btn" value="Отправить сообщение">
+    <input type="hidden" name="login" value="">
 </form>
 
 </body>
