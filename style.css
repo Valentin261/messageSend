@@ -1,0 +1,42 @@
+body {
+    margin: 0 0 0 0;
+    font-family: 'Open Sans', sans-serif, Arial;
+}
+
+.blockForm {
+    margin: 20px;
+    width: 480px;
+}
+
+.formHeadingText {
+    color: #c7081b;
+    font-weight: 800;
+    font-size: 14pt;
+    margin-bottom: 10px;
+}
+
+.formInputField {
+    font-size: 10pt;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.formBlockText {
+    border-radius: 2px;
+    border: 1px solid #E4E4E4;
+    width: 100%;
+    font-size: 10pt;
+    margin-bottom: 10px;
+}
+
+.formButton {
+    border: 0;
+    font-size: 12pt;
+    color: #fff;
+    border-radius: 4px;
+    background-color: #c7081b;
+    padding: 5px 13px;
+}
+
+
+
